@@ -1,1 +1,1 @@
-# EDA1
+# Titanic prediction whether there Survived or not.
